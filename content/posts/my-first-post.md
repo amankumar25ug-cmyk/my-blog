@@ -4,11 +4,5 @@ draft = false
 title = 'My First Post'
 +++
 
-# My First Step into the Tech World 
-
-Hello everyone!\
-Welcome to my first blog on GitHub.
-
-My name is **Aman**, and I am a **BSc Information Science student at Azim Premji University, Bengaluru**. This blog is a small step in my learning journey, where I will share what I learn, build, and explore in the world of technology.
-
-I am still a beginner, but I believe that learning in public helps us grow faster and stay motivated. This blog is not about being perfect — it is about being consistent.
+Unit 1 reflection blog
+In my first class, Becoming a reflective scientist course helped me with how decisions are made in organizations. We also see how companies and governments are releasing new policies , updates and rules. These decisions take affirmative actions, they are not arbitrary or poorly justified. Instead they must be based on existing data.The moment the instructor gave us a task, finding how data is organised into  a smart phone, I was so excited. I have started thinking from the perspective of a business person, somewhat changing my perspective. This task has given me that feeling, sometimes I really lost myself into it. Thereafter I was curious about the next class. Usually we have regular classes, where teaching and discussion happens and lab classes where some skills are taught. The next class was a lab. We were divided into groups. I was so terrified when I saw the complex mathematical equation on lab assignments. My mind was blank. Then, upon  following the instructions of the instructor ,I could do it. Surprise, what ? Those equations were not intended to solve , rather we  have to print them in document exactly how they are, but this time  using zettler. The first time I  understood how  textbooks are designed. Really it is a beauty. After going back to the room , I used chatGTP to explore it in further possible ways.
